@@ -39,11 +39,8 @@ Key points:
 
 ## TABULATION
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1f181024-02cb-4d3d-9eb4-fbbb01b696f8" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c69ff82b-59e6-4003-934d-f06ccbea4765" />
 
 ---
 
